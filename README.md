@@ -55,7 +55,7 @@
 
 - Building more full-stack and database driven applications.  
 - Exploring machine learning & NLP applications.  
-- Preparing for placements (EdgeVerve) and looking forward to real-world contributions and open-source collaboration.  
+
 
 ---
 
