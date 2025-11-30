@@ -1,7 +1,7 @@
 # Hi there 👋, I’m **Kevin Tennison**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/kevin-tennison-63623238a)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/kevin-tennison-63623238a)  
 [![GitHub followers](https://img.shields.io/github/followers/kevintennison12-alt?label=Follow&style=social)](https://github.com/kevintennison12-alt)  
 
 ---
