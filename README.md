@@ -59,7 +59,7 @@ Keyboard Accompanist at state-level VTU festivals, including:
 
 ## 📫 Connect With Me  
 - **Email:** kevintennison1@gmail.com  
-- **Portfolio:** *(Add your Canva website link here)*  
+- **Portfolio:** *(https://kevinsprofile.my.canva.site/)*  
 - **LinkedIn:** linkedin.com/in/kevin-tennison-63623238a  
 
 ---
