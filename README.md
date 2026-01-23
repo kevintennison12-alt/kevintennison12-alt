@@ -1,109 +1,22 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=1400&height=200&lines=Kevin+Tennison" alt="Typing SVG" />
-</h1>
+# 💫 About Me:
+👨‍💻 I’m currently working on<br><br>Full-stack academic projects with a strong focus on frontend UI and system usability<br><br>Enhancing and extending the College DBMS with better workflows and automation<br><br>Small utility tools like connectivity checkers and API-based applications<br><br>🤝 I’m looking to collaborate on<br><br>Student-focused platforms (college systems, resource hubs, feedback tools)<br><br>Frontend-heavy projects involving clean UI/UX<br><br>Beginner-to-intermediate open-source projects related to web and automation<br><br>🙏 I’m looking for help with<br><br>Advanced system design concepts<br><br>Best practices in scalable full-stack architecture<br><br>Improving API security and performance<br>🌱 I’m currently learning<br><br>APIs & automation workflows<br><br>System design fundamentals<br><br>Backend integration techniques for real-world applications<br><br>💬 Ask me about<br><br>Frontend development (HTML, CSS, JavaScript)<br><br>College-level DBMS projects<br><br>Automation tools and productivity workflows<br><br>Turning ideas into practical, deployable solutions<br><br>⚡ Fun fact<br><br>I enjoy transforming simple ideas into polished, real-world systems more than just writing code for assignments.<br>
 
 
-<br>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KevinTennison) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thekeviboy_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-tennison-63623238a
+) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thekeviboy24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevintennison1@gmail.com) 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Learner+%F0%9F%8C%90;Creative+Technologist+%E2%9A%A1;Building+Practical+%26+Impactful+Solutions+%F0%9F%9A%80" />
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kevintennison12-alt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kevintennison12-alt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevintennison12-alt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br><br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
-
-<br>
-
----
-
-## 🙋‍♂️ About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-🎓 **Computer Science & Design Student** at PES Institute of Technology & Management  
-📍 Based in **Shivamogga, Karnataka**  
-💡 Passionate about **frontend development, automation tools, and UI-focused projects**  
-⚡ Love building **clean, functional and efficient systems**  
-🌱 Currently exploring **APIs, automation workflows, system design**
-
-<br clear="right"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kevintennison12-alt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=kevintennison12-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎓 **CampusPulse** | Real-time student feedback fetcher using Airtable API | JavaScript, Airtable API |
-| 🏫 **College DBMS** | End-to-end platform for managing students, faculty & courses | HTML, CSS, JS, PHP, SQL |
-| 📁 **Student Resource Hub** | Hackathon project with login, resources & AI chatbot | JS, APIs, Automation |
-| 🌐 **Connectivity Checker** | Python ping-based network stability checker | Python |
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</p>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Tools & Frameworks**
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kevintennison12-alt&theme=radical&hide_border=true&background=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevintennison12-alt&theme=react-dark&hide_border=true&area=true" width="100%">
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:kevintennison1@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/kevintennison12-alt"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
