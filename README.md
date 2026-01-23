@@ -1,11 +1,12 @@
-<h1 align="center">
+<<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=1400&height=200&lines=Kevin+Tennison" alt="Typing SVG" />
 </h1>
+
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Learner+🌐;Creative+Technologist+⚡;Building+Practical+%26+Impactful+Solutions+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Learner+%F0%9F%8C%90;Creative+Technologist+%E2%9A%A1;Building+Practical+%26+Impactful+Solutions+%F0%9F%9A%80" />
 </p>
 
 <br><br>
@@ -15,7 +16,6 @@
 </p>
 
 <br>
-
 ---
 
 ## 🙋‍♂️ About Me
