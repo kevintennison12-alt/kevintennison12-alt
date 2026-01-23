@@ -110,19 +110,25 @@
 
 ---
 
-### 📊 GitHub Stats (All Time)
+## 📊 GitHub Stats
+
+### 🔹 Overall (All Time)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=kevintennison12-alt&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevintennison12-alt&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+### 🔹 This Year Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kevintennison12-alt&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevintennison12-alt&theme=react-dark&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevintennison12-alt&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
-
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
-</p>
+  <img sr
