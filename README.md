@@ -150,19 +150,7 @@ Web-based Database Management System to organize and retrieve student, faculty, 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kevintennison12-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=00e0ff&text_color=c9d1d9"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kevintennison12-alt&theme=tokyonight&hide_border=true&background=0d1117&stroke=8a2be2&ring=00e0ff&fire=8a2be2&currStreakLabel=00e0ff"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintennison12-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevintennison12-alt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e0ff&line=8a2be2&point=ffffff" width="98%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 ## 🏆 Achievements
 
