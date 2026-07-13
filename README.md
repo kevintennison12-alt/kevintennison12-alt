@@ -25,7 +25,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 ## 🧬 About Me
 
@@ -43,7 +43,7 @@ I'm an engineer who thinks like a designer — bridging **AI/ML**, **full-stack 
 
 > *"Code by day, chords by evening."*
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 ## 🚀 Current Focus
 
@@ -80,7 +80,7 @@ AI Engineer / Software Developer building intelligent, human-centered products
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -126,7 +126,7 @@ AI Engineer / Software Developer building intelligent, human-centered products
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 ## 💎 Featured Projects
 
@@ -177,7 +177,7 @@ Web-based Database Management System to organize and retrieve student, faculty, 
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 ## 📊 GitHub Statistics
 
@@ -192,7 +192,7 @@ Web-based Database Management System to organize and retrieve student, faculty, 
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 ## 🏆 Achievements
 
@@ -201,14 +201,14 @@ Web-based Database Management System to organize and retrieve student, faculty, 
 - 📄 **Research Publication** — *Smart Feedback Classifier: An AI Based Analytics System for College Helpdesk*, IJFMR Vol. 7, Issue 6
 - 🎹 **State-Level Keyboard Accompanist** — BlissBeat 2024 (SJCIT) · Interact 2025 (GAT, Bengaluru) · Acharya Habba 2026 (AIT, Bengaluru)
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 ## 💭 Developer Philosophy
 
 > I don't just write code.
 > I design intelligent systems that solve real-world problems while creating experiences people enjoy.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 <div align="center">
 
@@ -218,7 +218,7 @@ Web-based Database Management System to organize and retrieve student, faculty, 
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 ## 🎵 Off the Clock
 
@@ -230,7 +230,19 @@ Web-based Database Management System to organize and retrieve student, faculty, 
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kevintennison12-alt/kevintennison12-alt/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>*(Animated snake eating my contribution graph — powered by <a href="https://github.com/Platane/snk">Platane/snk</a>. One-time GitHub Action setup required — see note below.)*</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:6a11cb,100:00e0ff&height=3&width=1000" width="100%"/>
 
 ## 📫 Connect With Me
 
@@ -254,3 +266,14 @@ Web-based Database Management System to organize and retrieve student, faculty, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2c5364,100:0f2027&height=150&section=footer&text=Thanks%20for%20visiting%20⭐&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center"><i>Let's build intelligent solutions together.</i></div>
+
+<!--
+SETUP NOTES (delete this comment block once done):
+
+1. Contribution Snake — add a file at .github/workflows/snake.yml in this repo with the Platane/snk
+   GitHub Action (github.com/Platane/snk#-installation). It runs on a schedule and generates the SVG
+   this README already points to — no README edit needed once it's set up.
+
+2. Spotify "Off the Clock" widget — get a free UID from spotify-github-profile.vercel.app,
+   then paste it into the `uid=` parameter in that image URL above.
+-->
