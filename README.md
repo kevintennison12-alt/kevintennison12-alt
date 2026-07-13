@@ -37,11 +37,11 @@
 <div align="center">
 
 | Project | Description | Tech Stack |
-|-------|------------|-----------|
-| 🎓 **CampusPulse** | Real-time student feedback fetcher | JavaScript, Airtable API |
-| 🏫 **College DBMS** | End-to-end academic management system | HTML, CSS, JS, PHP, SQL |
-| 📁 **Student Resource Hub** | Hackathon project with AI chatbot | JavaScript, APIs |
-| 🌐 **Connectivity Checker** | Network stability checker | Python |
+|----------|-------------|------------|
+| 🛡️ **Bot Guard** | AI-driven FinTech security system that detects and blocks Agentic AI bots using behavioral biometrics and adaptive UI traps. | Python, AI/ML, Behavioral Analytics |
+| 🥗 **Deep Learning Smart Food Analyzer** *(In Progress)* | AI-powered nutrition analysis system that generates health scores, risk alerts, food quality classifications, and personalized dietary recommendations. | Python, TensorFlow/PyTorch, OpenCV, Deep Learning |
+| 📊 **CampusPulse** | Real-time student feedback analytics platform with interactive dashboards powered by Airtable REST API. | JavaScript, HTML, CSS, Airtable REST API |
+| 🏫 **College Database Management System** | Full-stack academic management system for managing students, faculty, courses, and academic records. | PHP, MySQL, HTML, CSS, JavaScript |
 
 </div>
 
