@@ -7,7 +7,7 @@
 </a>
 
 <br/>
-
+</div>
 <a href="https://www.linkedin.com/in/kevin-tennison-63623238a/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://kevinsprofile.my.canva.site/"> <img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://github.com/kevintennison12-alt"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:kevintennison1@gmail.com"> <img src="https://img.shields.io/badge/Email-2CA5E0?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 <img src="https://komarev.com/ghpvc/?username=kevintennison12-alt&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
