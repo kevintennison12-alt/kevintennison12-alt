@@ -113,7 +113,3 @@
 
 ---
 
----
-
-<p align="center">
-  <img sr
