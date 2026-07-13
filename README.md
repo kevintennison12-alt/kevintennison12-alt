@@ -1,115 +1,256 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=1400&height=200&lines=Kevin+Tennison" alt="Typing SVG" />
-</h1>
-
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Learner+%F0%9F%8C%90;Creative+Technologist+%E2%9A%A1;Building+Practical+%26+Impactful+Solutions+%F0%9F%9A%80" />
-</p>
-
-<br><br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
-
-<br><br>
----
-
-## 🙋‍♂️ About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-🎓 **Computer Science & Design Student** at PES Institute of Technology & Management  
-📍 Based in **Shivamogga, Karnataka**  
-💡 Passionate about **frontend development, automation tools, and UI-focused projects**  
-⚡ Love building **clean, functional, and efficient systems**  
-🌱 Currently exploring **APIs, automation workflows, and system design fundamentals**
-
-<br clear="right"/>
-
----
-
-## 🔥 Featured Projects
-
 <div align="center">
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🛡️ **Bot Guard** | AI-driven FinTech security system that detects and blocks Agentic AI bots using behavioral biometrics and adaptive UI traps. | Python, AI/ML, Behavioral Analytics |
-| 🥗 **Deep Learning Smart Food Analyzer** *(In Progress)* | AI-powered nutrition analysis system that generates health scores, risk alerts, food quality classifications, and personalized dietary recommendations. | Python, TensorFlow/PyTorch, OpenCV, Deep Learning |
-| 📊 **CampusPulse** | Real-time student feedback analytics platform with interactive dashboards powered by Airtable REST API. | JavaScript, HTML, CSS, Airtable REST API |
-| 🏫 **College Database Management System** | Full-stack academic management system for managing students, faculty, courses, and academic records. | PHP, MySQL, HTML, CSS, JavaScript |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=280&section=header&text=Hi%20👋%20I'm%20Kevin%20Tennison&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20intelligent%20systems%20with%20code%20%26%20design&descAlignY=55&descAlign=50" width="100%"/>
 
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</p>
-
----
-
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://facebook.com/KevinTennison">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/@thekeviboy24">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/kevin-tennison-63623238a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@thekeviboy24">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:kevintennison1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://kevinsprofile.my.canva.site/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white"/>
+<a href="https://github.com/kevintennison12-alt">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Computer+Science+%26+Design+Student;Hackathon+Builder;Problem+Solver;Music+Mentor+%F0%9F%8E%B9" alt="Typing SVG" />
 </a>
-</p>
 
----
+<br/>
 
-## 💻 Tech Stack
+<a href="https://www.linkedin.com/in/kevin-tennison-63623238a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://kevinsprofile.my.canva.site/">
+  <img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/kevintennison12-alt">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:kevintennison1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2CA5E0?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<div align="center">
-
-### **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Frameworks & Platforms**
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### **Design & Productivity**
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
-### **DevOps & Version Control**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+<img src="https://komarev.com/ghpvc/?username=kevintennison12-alt&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
 
 </div>
 
----
+<br/>
 
+## 🧬 About Me
+
+```yaml
+kevin:
+  role: "Computer Science & Design Undergraduate"
+  based_in: "Shivamogga, Karnataka, India"
+  passionate_about: ["Artificial Intelligence", "Full Stack Development", "Machine Learning"]
+  loves: "Building real-world products that are as thoughtful in design as they are in engineering"
+  leadership: "Team Lead across multiple state-level hackathons"
+  outside_of_code: "Self-employed Music Mentor & State-Level Keyboard Accompanist"
+```
+
+I'm an engineer who thinks like a designer — bridging **AI/ML**, **full-stack engineering**, and **human-centered design** to build products people actually enjoy using. When I'm not shipping code, I'm behind a keyboard — literally, performing at VTU state-level cultural festivals and mentoring the next generation of musicians.
+
+> *"Code by day, chords by evening."*
+
+<br/>
+
+## 🚀 Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Building
+**Deep Learning Smart Food Analyzer**
+AI system generating health scores & dietary recommendations from packaged food data
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Recent Hackathon
+**Bot Guard**
+Behavioral-biometric bot detection system for FinTech, built as Team Lead
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+Cloud Computing · Deep Learning · System Design
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Goal
+AI Engineer / Software Developer building intelligent, human-centered products
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+**Database**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**AI & ML**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-6A11CB?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
+
+<br/>
+
+## 💎 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ Bot Guard
+Hackathon project — **Team Lead**
+
+AI-driven behavioral security system for FinTech platforms that detects and blocks Agentic AI bots using behavioral biometrics, adaptive UI traps, and real-time threat detection.
+
+`Python` `AI/ML` `Behavioral Analytics` `FinTech Security`
+
+</td>
+<td width="50%">
+
+### 🥗 Smart Food Analyzer
+Major Project — *In Progress*
+
+Deep Learning system analyzing packaged food nutrition data to generate health scores, risk alerts, quality classifications, and personalized dietary recommendations.
+
+`Python` `TensorFlow/PyTorch` `OpenCV` `Deep Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 CampusPulse
+Academic Project
+
+Real-time student feedback tracking system powered directly by the Airtable REST API, with interactive dashboards and full in-browser data processing.
+
+`JavaScript` `HTML` `CSS` `Airtable REST API`
+
+</td>
+<td width="50%">
+
+### 🏫 College DBMS
+Academic Project
+
+Web-based Database Management System to organize and retrieve student, faculty, course, and academic report data through a responsive administrative front-end.
+
+`SQL` `PHP` `HTML/CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kevintennison12-alt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=00e0ff&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kevintennison12-alt&theme=tokyonight&hide_border=true&background=0d1117&stroke=8a2be2&ring=00e0ff&fire=8a2be2&currStreakLabel=00e0ff"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevintennison12-alt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevintennison12-alt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e0ff&line=8a2be2&point=ffffff" width="98%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Achievements
+
+- 🏆 **HackFest 2026** — Shortlisted from 750+ registered teams, NMAMIT Nitte (36-hour state-level hackathon)
+- 🎓 **NPTEL Elite Certification** — Programming in Java, IIT Kharagpur (76%, Elite tier)
+- 📄 **Research Publication** — *Smart Feedback Classifier: An AI Based Analytics System for College Helpdesk*, IJFMR Vol. 7, Issue 6
+- 🎹 **State-Level Keyboard Accompanist** — BlissBeat 2024 (SJCIT) · Interact 2025 (GAT, Bengaluru) · Acharya Habba 2026 (AIT, Bengaluru)
+
+<br/>
+
+## 💭 Developer Philosophy
+
+> I don't just write code.
+> I design intelligent systems that solve real-world problems while creating experiences people enjoy.
+
+<br/>
+
+<div align="center">
+
+### 💬 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+## 🎵 Off the Clock
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" width="400"/>
+
+*When I'm not debugging, I'm probably at a keyboard — the 88-key kind. I run **Eighty-Eight Keys Music**, mentoring school-age students in piano.* 🎹
+
+</div>
+
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kevin-tennison-63623238a/">
+  <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://kevinsprofile.my.canva.site/">
+  <img src="https://img.shields.io/badge/View_My-Portfolio-6A11CB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:kevintennison1@gmail.com">
+  <img src="https://img.shields.io/badge/Say_Hello-Email-2CA5E0?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/kevintennison12-alt">
+  <img src="https://img.shields.io/badge/Follow-GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2c5364,100:0f2027&height=150&section=footer&text=Thanks%20for%20visiting%20⭐&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+
+<div align="center"><i>Let's build intelligent solutions together.</i></div>
