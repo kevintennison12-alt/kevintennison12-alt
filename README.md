@@ -213,13 +213,3 @@ Web-based Database Management System to organize and retrieve student, faculty, 
 
 <div align="center"><i>Let's build intelligent solutions together.</i></div>
 
-<!--
-SETUP NOTES (delete this comment block once done):
-
-1. Contribution Snake — add a file at .github/workflows/snake.yml in this repo with the Platane/snk
-   GitHub Action (github.com/Platane/snk#-installation). It runs on a schedule and generates the SVG
-   this README already points to — no README edit needed once it's set up.
-
-2. Spotify "Off the Clock" widget — get a free UID from spotify-github-profile.vercel.app,
-   then paste it into the `uid=` parameter in that image URL above.
--->
