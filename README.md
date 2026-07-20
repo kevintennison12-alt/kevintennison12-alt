@@ -19,7 +19,7 @@
 
 ```yaml
 kevin:
-  role: "Computer Science & Design Undergraduate"
+  role: "B.E Computer Science & Design Undergraduate"
   based_in: "Shivamogga, Karnataka, India"
   passionate_about: ["Artificial Intelligence", "Full Stack Development", "Machine Learning"]
   loves: "Building real-world products that are as thoughtful in design as they are in engineering"
