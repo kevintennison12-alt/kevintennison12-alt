@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=280&section=header&text=Hi%20👋%20I'm%20Kevin%20Tennison&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20intelligent%20systems%20with%20code%20%26%20design&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kevin%20Tennison/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=280&section=header&text=Hi%20👋%20I'm%20Kevin%20Tennison&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20intelligent%20systems%20with%20code%20%26%20design&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://github.com/kevintennison12-alt">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Computer+Science+%26+Design+Student;Hackathon+Builder;Problem+Solver;Music+Mentor+%F0%9F%8E%B9" alt="Typing SVG" />
