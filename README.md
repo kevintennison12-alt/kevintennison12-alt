@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kevin%20Tennison&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20•%20Full%20Stack%20&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kevin%20Tennison&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20•%20Full%20Stack%20Development%20&descAlignY=58"/>
 
 </div>
 <a href="https://github.com/kevintennison12-alt">
