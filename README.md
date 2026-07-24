@@ -115,7 +115,7 @@ AI-driven behavioral security system for FinTech platforms that detects and bloc
 </td>
 <td width="50%">
 
-### 🥗 Smart Food Analyzer
+### 🥗 Deep Learning based Smart Food Analyzer
 Major Project — *In Progress*
 
 Deep Learning system analyzing packaged food nutrition data to generate health scores, risk alerts, quality classifications, and personalized dietary recommendations.
