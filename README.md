@@ -140,7 +140,7 @@ Real-time student feedback tracking system powered directly by the Airtable REST
 ### 🏫 College DBMS
 Academic Project
 
-Web-based Database Management System to organize and retrieve student, faculty, course, and academic report data through a responsive administrative front-end.
+Web-based Database Management System to organize and retrieve student, faculty, course, and academic report data through a responsive , well maintained,  administrative front-end.
 
 `SQL` `PHP` `HTML/CSS` `JavaScript`
 
