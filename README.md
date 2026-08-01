@@ -28,7 +28,7 @@ kevin:
   outside_of_code: "Self-employed Music Mentor & State-Level Keyboard Accompanist"
 ```
 
-I'm an engineer who thinks like a designer — bridging **AI/ML**, **full-stack engineering**, and **human-centered design** to build products people actually enjoy using. When I'm not shipping code, I'm behind a keyboard — literally, performing at VTU state-level cultural festivals and mentoring the next generation of musicians.
+I'm an engineer who thinks like a designer — bridging **Artificial Intelligence**, **Full-Stack engineering**, and **Human-Centered Design** to build products people actually enjoy using. When I'm not shipping code, I'm behind a keyboard — literally, performing at VTU state-level cultural festivals and mentoring the next generation of musicians.
 
 > *"Code by day, chords by evening."*
 
